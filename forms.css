@@ -1,0 +1,70 @@
+body{
+	background:url("cake110.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+#fist{border: 80px solid black;
+	background-color: #3d84b8;
+}
+#sec{
+	text-align: center;
+	font-size: 40px;
+}
+ul{
+	font-size: 30px
+}
+h1{
+	text-align: center;text-decoration-style: solid;
+}
+#LL{
+	padding-top: 50px;
+	padding-right: 80px;
+	 padding-bottom: 50px;
+  padding-left: 500px;
+}
+#fast{border: 80px solid black;
+	background-color: orange;
+
+}
+#tab{
+	background-color: #6a2c70;
+	text-align: center;
+}
+#top{
+	text-align: right;
+}
+#all{float: left;
+    width: 30%;
+    margin-top: 6px;
+    padding-left: 180px;
+    font-family: Georgia, serif;
+    color:black;}
+    #q1{
+    border: 10px solid black;
+    text-align: left;
+ margin: 300px;
+ margin-top: 100px;
+ margin-bottom: 50px;
+ height: auto;
+background-color: aliceblue;}
+a:link, a:visited {
+      background-color: black;
+      color:white;
+    
+      padding: 0px 5px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    a:hover, a:active {
+      background-color: yellow;
+      color: black;
+      transition-duration: 0.4s;
+      cursor: pointer;
+    
+    }
+    button{
+	background-color: red;
+	color: black;
+	padding: 0.001px;
+}

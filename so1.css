@@ -1,0 +1,43 @@
+body{
+	background:url("cake2.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+#d2{
+	background-color: pink;
+	width: 30%;
+	margin: 80px auto;
+	text-align: center;
+	border-radius: 20px;
+	opacity: 0.8;
+	font-size:18px
+}
+.top{
+	text-align: right;
+	display:flex;
+	padding: 20px;
+}
+#top{
+	text-align: right;
+}
+a:link, a:visited {
+      background-color: black;
+      color:white;
+    
+      padding: 0px 5px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    a:hover, a:active {
+      background-color: yellow;
+      color: black;
+      transition-duration: 0.4s;
+      cursor: pointer;
+    
+    }
+    button{
+	background-color: red;
+	color: black;
+	padding: 0.001px;
+}

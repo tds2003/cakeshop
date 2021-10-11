@@ -1,0 +1,44 @@
+#fiv{
+	text-align: center;
+	color: orange;
+	font-size: 60px;
+}
+body{
+	background:url("cake9.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+#top{
+	text-align: right;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+}
+a:link, a:visited {
+      background-color: black;
+      color:white;
+    
+      padding: 0px 5px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    a:hover, a:active {
+      background-color: yellow;
+      color: black;
+      transition-duration: 0.5s;
+      cursor: pointer;
+    
+    }
+    button{
+	background-color: red;
+	color: black;
+	padding: 0.001px;
+}
+.tip:hover{
+  filter: grayscale(100%);
+  transform: scale(1.1);
+}
+.tip{
+  transition: 1s;
+}
